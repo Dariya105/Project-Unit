@@ -1,5 +1,5 @@
 ## Project-Unit
 The sample Landing Page [you can see this page by link] (dariya105.github.io/Project-Unit/)
-- Usinf flex
+- Use flex
 - This page has a form
 - Use Java Script
