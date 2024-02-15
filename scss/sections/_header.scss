@@ -7,7 +7,6 @@
     &::before {
         @extend %overlay;
     }
-
     /* Desktop MD */
     @media (max-width: 1600px) {
         @include bgImage("./../img/bg/header-bg-1600.jpg");
