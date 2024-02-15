@@ -360,21 +360,17 @@ legend {
 }
 
 .button:hover {
-  background-color: #00ad62;
-}
-
-.button:focus {
-  outline: none;
-  background-color: #00a05a;
-}
-
-.button:hover {
   background-color: #c7887f;
   margin-left: 20px;
   transition-property: background-color, margin-left;
   transition-duration: 300ms;
   transition-timing-function: ease-in;
   transition-delay: 0ms;
+}
+
+.button:focus {
+  outline: none;
+  background-color: #00a05a;
 }
 
 .title {
